@@ -1,3 +1,4 @@
 # Statistics
-Este repositório contém projetos voltados ao estudo Estatístico DESCRITIVO e PREDITIVO.
-![introduction-to-probability-and-statistics-for-epidemiology_HRP259](https://user-images.githubusercontent.com/73768941/148776793-41efa2d3-0053-44dd-acf5-24a43eef07f0.jpg)
+Este repositório contém projetos voltado ao estudo Z TESTE.![ztest](https://user-images.githubusercontent.com/73768941/149261160-934af788-8140-4617-a208-9423794e4325.png)
+
+
